@@ -1,0 +1,2 @@
+# Vignere Cracker
+The script.py file in this directory takes an input text (from the command line) which is ecrpyted using Vignere encryption, and tries to output the key using which the particular encryption happened using cryptanalysis. Alongside the key, it also prints out the decrypted message.
